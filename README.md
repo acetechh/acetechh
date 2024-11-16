@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Ace** - I'm a fullstack developer, game designer, and highschool student. I'm interested in coding and game designing/dev. I work on random projects in my free time, a lot involving Discord and ROBLOX!
+**I'm Ace** - I'm a fullstack developer, game designer, and highschool student. I'm interested in coding, computer science and game designing/dev. I work on random projects in my free time, a lot involving Discord and ROBLOX!
 
 You can contact me on discord @ [acetechnologies](https://discord.com/users/1059224639462711497)
 
