@@ -3,7 +3,7 @@
 
 You can contact me on discord @ [acetechnologies](https://discord.com/users/1059224639462711497)
 
-[![SkillIcons](https://skillicons.dev/icons?i=lua,js,ts,html,css,react,tailwind,nodejs,py,cs,cpp)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=lua,js,ts,discordjs,html,css,svelte,react,tailwind,nodejs,npm,py,cs,cpp,vscode,visualstudio,postgresql,windows)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
